@@ -1,6 +1,8 @@
 #ifndef __token_h
 #define __token_h
 
+#include <stdbool.h>
+
 typedef enum
 {
 	Token_Number,
